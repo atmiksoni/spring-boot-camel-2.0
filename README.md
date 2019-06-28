@@ -1,0 +1,1 @@
+# spring-boot-camel-2.0
